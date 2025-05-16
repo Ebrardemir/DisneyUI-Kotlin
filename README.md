@@ -23,24 +23,6 @@ Bu uygulama, Disney+ benzeri bir kullanıcı arayüzü ile popüler filmleri kat
 
 ![WhatsApp Görsel 2025-05-17 saat 00 22 18_8dd0dd4f](https://github.com/user-attachments/assets/ed5bb188-cffa-485c-8d41-4f16b17e387d)
 
-## 📂 Proje Yapısı
-app/
-└── java/com/example/disneyui/
-├── MainActivity.kt
-├── Film.kt
-├── FilmAdapter.kt
-├── Section.kt
-└── SectionAdapter.kt
-└── res/
-├── layout/
-│ ├── activity_main.xml
-│ ├── item_film.xml
-│ └── item_section.xml
-├── drawable/
-│ └── film afişleri ve ikonlar
-└── values/
-└── themes.xml, colors.xml
-
 
 ## ⚙️ Nasıl Çalıştırılır?
 
